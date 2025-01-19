@@ -1,9 +1,8 @@
 - 👋 Bonjour, Je suis @Omar-DevWeb
 - 👀 Je suis intéressé par le developpement en Front End
-- 🌱 I’m currently learning le codage JavaScript
+- 🌱 I’m currently learning le codage HTML/CSS et JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me omar_31120@hotmail.fr
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
